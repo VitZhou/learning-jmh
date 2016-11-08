@@ -5,7 +5,7 @@ JMH 是新的microbenchmark（微基准测试）框架（2013年首次发布）�
 >JMH的官方例子[地址](http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-samples/src/main/java/org/openjdk/jmh/samples/)
 >这里是网上找到的一个整理好的pull下来直接可以跑的[例子](https://github.com/WangErXiao/jmh-demo)，适合入门
 >官网[地址](http://openjdk.java.net/projects/code-tools/jmh/)
->本文整理自(http://www.tuicool.com/articles/veQ32i)由于原文太老,而且排版不美观,所以在其基础上进行了整理,这里感谢原作者的贡献,特此声明
+>本文整理自(http://www.tuicool.com/articles/veQ32i) 由于原文有点久远,而且排版不美观,所以在其基础上进行了整理,这里感谢原作者的贡献,特此声明
 
 ##运行
 在[这里](http://openjdk.java.net/projects/code-tools/jmh/)查找jmh-core的最新版本,在pom文件中添加依赖:
