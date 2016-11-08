@@ -1,6 +1,6 @@
 {
   "author": "herryZ <zsh989163@163.com>",
-  "description": "java测试是一个庞大的体系,这里整理了TDD,BDD所需要的一些工具，框架(JUnit4,Assertj,Mockito,PowerMock,h2,DbUnit,Cucumber等)",
+  "description": "JMH资料整理",
   "extension": null,
   "generator": "site",
   "sidebar": {
@@ -20,7 +20,7 @@
     "pageNumbers": false,
     "paperSize": "a4"
   },
-  "title": "Java测试学习笔记",
+  "title": "JMH资料整理",
   "variables": {
   },
   "plugins": [
@@ -45,7 +45,7 @@
       "wechatText": "微信打赏"
     },
 	"edit-link": {
-        "base": "https://github.com/henryZ/leaning-java-unit-test/edit/master",
+        "base": "https://github.com/henryZ/learning-jmh/edit/master",
         "label": "Edit"
     },
     "tbfed-pagefooter": {
